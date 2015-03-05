@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\bin\Debug\Ledensysteem.exe
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\bin\Debug\Ledensysteem.pdb
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\bin\Debug\Ledensysteem.xml
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\Ledensysteem.Ledensysteem.resources
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\Ledensysteem.LidToevoegen.resources
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\Ledensysteem.Resources.resources
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\Ledensysteem.exe
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\Ledensysteem.xml
+C:\Documents and Settings\Administrator\Bureaublad\Ledensysteem\Ledensysteem\obj\x86\Debug\Ledensysteem.pdb
